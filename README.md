@@ -37,7 +37,7 @@ The goal is to complete 15 of the 30 JavaScript challenges before Friday **Novem
 | ------------- |
 | 04 - Array Cardio Day 1 | 
 | 05 - Flex Panel Gallery |
-| 03 - 29 - Countdown Timer |
+| 29 - Countdown Timer |
 | 30 - Whack A Mole |
 
 
